@@ -4,7 +4,7 @@ An engaging Vue/Quasar login component featuring an interactive robot character 
 
 ![Robot Login Demo](live-demo.png)
 
-[Live Demo](https://your-demo-url.com)
+[Live Demo]([https://your-demo-url.com](https://interactive-vue-sign-in-page.netlify.app/#/))
 
 ## ✨ Features
 
